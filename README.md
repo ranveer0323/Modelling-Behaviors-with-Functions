@@ -1,4 +1,4 @@
-A function to calculate how many views a video can get or go viral on social media platforms like Instagram, YouTube, TikTok etc.
+A function created with the help of ChatGPT to calculate how many views a video can get or go viral on social media platforms like Instagram, YouTube, TikTok etc.
 
 <aside>
 1️⃣ Identify Variables:
