@@ -54,3 +54,5 @@ $$ V(t) = V_{max} \times (1-e^{-0.1t}) $$
 In this example, $V_{max}$ represents the maximum number of views the video can achieve, and 0.1 is the growth rate. 
 These parameters would change based on the platform, type of video, historical data etc. For instance, growth rate 
 and saturation level would be guided by the characteristics of the piece of content and the social media platform.
+
+This is a very rudimentary implementation and considers a limited number of variables when calculating the number of views.
